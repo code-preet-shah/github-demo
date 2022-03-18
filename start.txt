@@ -1,1 +1,1 @@
-Test Git new file demo.
+Test Git new file demo
